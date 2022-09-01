@@ -1,0 +1,40 @@
+.about {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.about-text {
+  margin: 50px auto 50px;
+  color: #fff;
+  font-family: Poppins, sans-serif;
+  font-size: 100px;
+  font-weight: 500;
+}
+.video {
+  max-width: 1000px;
+  margin: auto auto 100px;
+}
+
+.wistia_swatch {
+  display: none;
+}
+
+canvas {
+  position: relative;
+}
+
+.w-bottom-bar-right-inner div:nth-child(4) {
+  display: none !important;
+}
+
+@media screen and (max-width: 1224px) {
+  .video {
+    max-width: 85vw;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .about-text {
+    font-size: 50px;
+  }
+}
