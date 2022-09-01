@@ -6,9 +6,9 @@ function Hero() {
   return (
     <div className="hero">
       <h1 className="hero-text">
-        <span className="mint-green">{"<"}</span>
+        <span className="cyan">{"<"}</span>
         Victor Daramola
-        <span className="mint-green">{"/>"}</span>
+        <span className="cyan">{"/>"}</span>
       </h1>
       <h5 className="hero-subtext">Developer - Learner - Human</h5>
       <DownArrows />

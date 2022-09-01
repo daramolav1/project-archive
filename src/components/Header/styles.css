@@ -6,7 +6,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: #282c34;
-  border-bottom: 2px solid #3bb99b;
+  border-bottom: 2px solid #72cbf6;
   padding: 10px 25px 5px;
   z-index: 10;
 }
@@ -34,7 +34,7 @@
 }
 
 .nav-text:hover {
-  color: #3bb99b;
+  color: #72cbf6;
 }
 
 @media screen and (max-width: 1024px) {
