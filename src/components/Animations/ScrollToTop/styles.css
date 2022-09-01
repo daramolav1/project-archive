@@ -1,0 +1,22 @@
+.top-btn-position {
+  position: fixed;
+  right: 20px;
+  bottom: 15px;
+}
+
+.top-btn-style {
+  width: 40px;
+  height: 40px;
+  border: 2px solid #333;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  color: #333;
+  cursor: pointer;
+}
+
+.top-btn-style:hover {
+  animation: none;
+  border: 2px solid #fff;
+  background-color: #333;
+  color: #fff;
+}
