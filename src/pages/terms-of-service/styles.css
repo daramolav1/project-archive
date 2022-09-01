@@ -1,0 +1,37 @@
+.tos {
+  margin: 10px auto 20px;
+  max-width: 1200px;
+  color: #fff;
+  font-family: Poppins, sans-serif;
+}
+
+.tos h1 {
+  font-size: 50px;
+}
+
+.tos h2 {
+  font-size: 30px;
+}
+
+.tos p {
+  font-size: 18px;
+}
+
+.tos a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.tos a:hover {
+  color: #72cbf6;
+}
+
+.home-btn {
+  font-size: 20px;
+}
+
+@media screen and (max-width: 1200px) {
+  .tos {
+    margin: 10px 35px 20px;
+  }
+}
