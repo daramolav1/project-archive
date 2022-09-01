@@ -1,0 +1,37 @@
+.projects {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.projects-text {
+  margin: 50px auto 50px;
+  color: #fff;
+  font-family: Poppins, sans-serif;
+  font-size: 100px;
+  font-weight: 500;
+}
+
+.projects-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 80vw;
+  margin: 75px auto auto;
+  padding-bottom: 100px;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 1500px) {
+  .projects-container {
+    max-width: 95vw;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .projects-text {
+    font-size: 50px;
+  }
+
+  .projects-container {
+    flex-direction: column;
+  }
+}
