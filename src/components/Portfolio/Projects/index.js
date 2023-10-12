@@ -13,14 +13,14 @@ function Projects() {
             title="Marketing Landing Page"
             imgSrc="marketing-landing-page.png"
             skills={["React, JavaScript, HTML, CSS"]}
-            demoLink="https://marketing-landing-page-client.herokuapp.com"
+            demoLink="https://marketing-campaign-landing-page.netlify.app/"
             codeLink="https://github.com/daramolav1/marketing-landing-page"
           />
           <Work
             title="Employee Directory"
             imgSrc="employee-directory.png"
             skills={["React, JavaScript, HTML, CSS"]}
-            demoLink="https://employee-directory-app-client.herokuapp.com"
+            demoLink="https://employee-directory-client.netlify.app/"
             codeLink="https://github.com/daramolav1/employee-directory"
           />
         </div>
@@ -30,14 +30,14 @@ function Projects() {
             title="To-Do List"
             imgSrc="to-do-list.png"
             skills={["React, JavaScript, HTML, CSS"]}
-            demoLink="https://to-do-list-client.herokuapp.com"
+            demoLink="https://to-do-list-app-client.netlify.app/"
             codeLink="https://github.com/daramolav1/to-do-list"
           />
           <Work
             title="Weather App"
             imgSrc="weather-app.png"
             skills={["React, JavaScript, HTML, CSS"]}
-            demoLink="https://weather-forecast-app-client.herokuapp.com"
+            demoLink="https://weather-forecast-app-client.netlify.app/"
             codeLink="https://github.com/daramolav1/weather-app-v2"
           />
           <Work
@@ -51,14 +51,14 @@ function Projects() {
             title="Calculator"
             imgSrc="calculator.png"
             skills={["React, JavaScript, HTML, CSS"]}
-            demoLink="https://calculator-react-client.herokuapp.com"
+            demoLink="https://calculator-app-client.netlify.app/"
             codeLink="https://github.com/daramolav1/calculator"
           />
           <Work
             title="Tic-Tac-Toe"
             imgSrc="tic-tac-toe.png"
             skills={["React, JavaScript, HTML, CSS"]}
-            demoLink="https://tic-tac-toe-game-client.herokuapp.com"
+            demoLink="https://tic-tac-toe-game-client.netlify.app/"
             codeLink="https://github.com/daramolav1/tic-tac-toe"
           />
         </div>

@@ -7,6 +7,11 @@ import javascript_logo from "../../../svgs/skills/javascript-logo.svg";
 import typescript_logo from "../../../svgs/skills/typescript-logo.svg";
 import react_logo from "../../../svgs/skills/react-logo.svg";
 import sass_logo from "../../../svgs/skills/sass-logo.svg";
+import java_logo from "../../../svgs/skills/java-logo.svg";
+import nodejs_logo from "../../../svgs/skills/nodejs-logo.svg";
+import jest_logo from "../../../svgs/skills/jest-logo.svg";
+import heroku_logo from "../../../svgs/skills/heroku-logo.svg";
+import netlify_logo from "../../../svgs/skills/netlify-logo.svg";
 import mongodb_logo from "../../../svgs/skills/mongodb-logo.svg";
 import postgresql_logo from "../../../svgs/skills/postgresql-logo.svg";
 import postman_logo from "../../../svgs/skills/postman-logo.svg";
@@ -53,6 +58,41 @@ function Skills() {
           alt="logo"
           className="sass-logo skill"
           title="Sass"
+        />
+
+        <img
+          src={java_logo}
+          alt="logo"
+          className="java-logo skill"
+          title="Java"
+        />
+
+        <img
+          src={nodejs_logo}
+          alt="logo"
+          className="nodejs-logo skill"
+          title="Node.js"
+        />
+
+        <img
+          src={jest_logo}
+          alt="logo"
+          className="jest-logo skill"
+          title="Jest"
+        />
+
+        <img
+          src={heroku_logo}
+          alt="logo"
+          className="heroku-logo skill"
+          title="Heroku"
+        />
+
+        <img
+          src={netlify_logo}
+          alt="logo"
+          className="Netlify-logo skill"
+          title="Netlify"
         />
 
         <img
